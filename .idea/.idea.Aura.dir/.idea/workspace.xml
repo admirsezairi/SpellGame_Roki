@@ -44,7 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Uproject.Aura.executor": "Run",
+    "Uproject.Aura.executor": "Debug",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -139,7 +139,7 @@
       <workItem from="1704847428426" duration="2029000" />
       <workItem from="1704852737387" duration="499000" />
       <workItem from="1704855866014" duration="1106000" />
-      <workItem from="1704857039216" duration="37024000" />
+      <workItem from="1704857039216" duration="43704000" />
     </task>
     <servers />
   </component>

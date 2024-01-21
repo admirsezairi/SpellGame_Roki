@@ -9,7 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d06300b-5671-4946-9c2d-0196ce1dd7f3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Game/BP_AuraGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Game/BP_AuraGameMode.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +139,7 @@
       <workItem from="1704847428426" duration="2029000" />
       <workItem from="1704852737387" duration="499000" />
       <workItem from="1704855866014" duration="1106000" />
-      <workItem from="1704857039216" duration="57708000" />
+      <workItem from="1704857039216" duration="62129000" />
     </task>
     <servers />
   </component>

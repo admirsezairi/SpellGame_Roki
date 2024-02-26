@@ -9,8 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9d06300b-5671-4946-9c2d-0196ce1dd7f3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +141,7 @@
       <workItem from="1706410138005" duration="16056000" />
       <workItem from="1707009322719" duration="1244000" />
       <workItem from="1707013053163" duration="25811000" />
-      <workItem from="1708054884574" duration="4872000" />
+      <workItem from="1708054884574" duration="5471000" />
     </task>
     <servers />
   </component>
